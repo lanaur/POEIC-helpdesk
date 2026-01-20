@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projet fil rouge/note.md",
+                "file": "La technologie sans fil wifi et mobilité/Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "note"
+              "title": "Note"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "0915397f1e35d701",
   "lastOpenFiles": [
-    "projet fil rouge/projet fil rouge.md",
+    "La technologie sans fil wifi et mobilité/Note.md",
     "projet fil rouge/note.md",
+    "projet fil rouge/projet fil rouge.md",
     "projet fil rouge",
     "Vault.md",
     "Soft Skills/Soft Skills.md",
@@ -225,7 +226,6 @@
     "ITIL® 4 Foundation Certifiant/Notes.md",
     "Sans titre.canvas",
     "Sans titre.md",
-    "Sans titre 2.md",
-    "Sans titre 3.md"
+    "Sans titre 2.md"
   ]
 }
