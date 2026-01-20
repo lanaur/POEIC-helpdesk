@@ -11,23 +11,53 @@ lier à la pratique de mesaurement and reporting, continual improvement, knowled
 }
 ```
 
-##### Notions de
-Disponibilité: 
 
-MBTF
 
-MTRS
+```handwritten-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Writing/2025.12.24 - 12.10pm.writing"
+}
+```
 
-Changement
 
-ITAM
 
-ISAM
+```handwritten-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Writing/2025.12.24 - 13.57pm.writing"
+}
+```
 
-Actif informatique (CI)
 
-Incident
+```handwritten-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Writing/2025.12.24 - 15.33pm.writing"
+}
+```
 
-Accord sur niveau de service (SLA) : accord documenté entre fournisseur et consommaeur de service
 
-Demande de service : demande d'un utilisateur 
+```handwritten-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Writing/2025.12.24 - 16.03pm.writing"
+}
+```
+
+
+```handwritten-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Writing/2025.12.24 - 16.37pm.writing"
+}
+```
+
+
+
+```handwritten-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Writing/2025.12.24 - 16.44pm.writing"
+}
+```

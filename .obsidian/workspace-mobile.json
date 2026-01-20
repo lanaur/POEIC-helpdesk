@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8f93fad9e8609970",
+        "id": "14c01a9865c7da1f",
         "type": "tabs",
         "children": [
           {
-            "id": "ff36b2ae1a709956",
+            "id": "0915397f1e35d701",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITIL® 4 Foundation Certifiant/Notes.md",
+                "file": "projet fil rouge/note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "note"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "soft ",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -98,9 +98,19 @@
           "icon": "lucide-bookmark",
           "title": "Signets"
         }
+      },
+      {
+        "id": "dfb7ece8cbb97bcc",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "layout-grid",
+          "title": "Navigator"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 5
   },
   "right": {
     "id": "660b596d0f3e0e4d",
@@ -112,7 +122,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ITIL® 4 Foundation Certifiant/Notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,23 +179,52 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "ff36b2ae1a709956",
+  "active": "0915397f1e35d701",
   "lastOpenFiles": [
-    "Ink/Writing/2025.12.24 - 10.17am.writing",
-    "Ink/Writing/2025.12.24 - 10.15am.writing",
-    "Ink/Writing",
-    "Assurer le support PC logiciel/LAB06A.pdf",
-    "Introduction et pratique des réseaux/Images",
-    "Introduction et pratique des réseaux/227-DMX-BIN-DEC.pdf",
-    "Introduction et pratique des réseaux/ateliers/SR190_LA_V1.pdf",
-    "Sans titre.canvas",
-    "ITIL® 4 Foundation Certifiant/CBlanquier ITIL4 pratiques gestion generale.pdf",
-    "Sans titre.md",
-    "Introduction et pratique des réseaux/01 Promotion d’un contrôleur de domaine.pdf",
-    "Introduction et pratique des réseaux/ateliers",
+    "projet fil rouge/projet fil rouge.md",
+    "projet fil rouge/note.md",
+    "projet fil rouge",
+    "Vault.md",
+    "Soft Skills/Soft Skills.md",
+    "Soft Skills/communication.md",
+    "Ink/Writing/2026.1.16 - 13.41pm.writing",
+    "Excalidraw/Drawing 2026-01-15 13.37.37.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Connect elements.svg",
+    "Excalidraw/Scripts/Downloaded/Connect elements.md",
+    "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
+    "Excalidraw/Scripts/Downloaded/Concatenate lines.md",
+    "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
+    "Excalidraw/Scripts/Downloaded/Add Next Step in Process.md",
+    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
+    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
+    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
+    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "Ink/Writing/2026.1.15 - 13.37pm.writing",
+    "Gestion de parc informatique/Module 09 LABS.pdf",
     "planning.sheet.md",
-    "Introduction et pratique des réseaux/00 Bac a sable.pdf",
+    "Gestion de parc informatique/GLPI.md",
+    "Gestion de parc informatique/Module 09 LABS FR.pdf",
+    "space/space.md",
+    "space/Food.md",
+    "space/Cinema.md",
+    "Gestion de parc informatique/Module 07 LABS.pdf",
+    "Gestion de parc informatique/Module 07 LABS FR.pdf",
+    "Sécurité, système et réseaux/Untitled.md",
+    "space/Untitled 1.canvas",
+    "space/Untitled.canvas",
+    "Sécurité, système et réseaux/Sécurité, système et réseaux.md",
+    "Sécurité, système et réseaux/Firewall.md",
+    "Sécurité, système et réseaux/VPN.md",
     "ITIL® 4 Foundation Certifiant/Notes.md",
+    "Sans titre.canvas",
+    "Sans titre.md",
     "Sans titre 2.md",
     "Sans titre 3.md"
   ]
